@@ -1,4 +1,4 @@
-# certificates
+# Certificates
 
 Google Data Analytics Professional Certificate
 - Mastered the fundamentals of data analysis, including data cleaning, preparation, and organization.
